@@ -21,8 +21,8 @@ I build software around a practical question: **what happens when the happy path
 **[Microsoft PyRIT — CLI cancellation handling](https://github.com/microsoft/PyRIT/pull/3813)** · Merged 4 November 2026
 Improved Ctrl+C handling during scenario polling. This work focuses on predictable cancellation in a security-testing workflow.
 
-**[Microsoft PyRIT — seed-prompt discovery and contextual return](https://github.com/microsoft/PyRIT/pull/3987)** · Open draft
-Work in progress on moving between the chat editor and prompt datasets while preserving the user’s context. The contribution includes routing and editor regression coverage and is undergoing review.
+**[Microsoft PyRIT — seed-prompt discovery and contextual return](https://github.com/microsoft/PyRIT/pull/3987)** · Open · awaiting review
+Work in progress on moving between the chat editor and prompt datasets while preserving the user’s context. The contribution includes routing and editor regression coverage and is awaiting maintainer review after resolved feedback and passing CI.
 
 ## What I care about
 
