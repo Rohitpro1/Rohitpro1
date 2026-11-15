@@ -12,6 +12,7 @@ I build software around a practical question: **what happens when the happy path
 
 | Project | Focus | Engineering direction |
 | --- | --- | --- |
+| [LeaseQueue](https://github.com/Rohitpro1/leasequeue) | Python, SQLite, concurrent workers | Durable single-host jobs, transactional producer idempotency, fenced worker leases, bounded retries, and failure recovery. |
 | [SentinelRAG](https://github.com/Rohitpro1/SentinelRAG) | Python, FastAPI, LangGraph, React | Evidence-aware retrieval, bounded retry decisions, provider interfaces, and deterministic testing. An evolving prototype with persistence and deployment boundaries under active review. |
 | [PVC License Management](https://github.com/Rohitpro1/pvclicensemanagement) | Python backend and TypeScript interface | License-management workflows, API integration, and application delivery. |
 | [NIGHTRIDERS](https://github.com/Rohitpro1/NIGHTRIDERS) | Bus tracking and management | A transport application exploring operational visibility and client/server workflows. |
